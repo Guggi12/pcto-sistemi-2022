@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+<category>
+    <pattern>ciao</pattern>
+    <template>ciao a te</template>
+</category>
+<category>
+    <pattern>chi sei </pattern>
+    <template>sono un chatbot ideato da uno studente, quindi potrei essere abbastanza impreparato a rispondere ad alcune domande</template>
+</category>
+<category>
+    <pattern>cosa fai </pattern>
+    <template>rispondo alle domande che mi farai </template>
+</category>
+<category>
+    <pattern>come ti chiami </pattern>
+    <template>mi chiamo Arthur</template>
+</category>
+<category>
+    <pattern>come stai </pattern>
+    <template>bene grazie</template>
+</category>
+<category>
+    <pattern>come funzioni</pattern>
+    <template>basta che tu mi scrivi delle domande e io ti darò delle risposte</template>
+</category>
+<category>
+    <pattern>dove ti trovi</pattern>
+    <template>attualmente mi trovo a Torino</template>
+</category>
+<category>
+    <pattern>ti piace la marvel</pattern>
+    <template>certamente, è la mia casa produttrice preferita</template>
+</category>
+</aiml>
