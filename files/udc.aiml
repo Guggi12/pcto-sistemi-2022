@@ -13,10 +13,6 @@
     <template>sono un chatbot ideato da uno studente, quindi potrei essere abbastanza impreparato a rispondere ad alcune domande</template>
 </category>
 <category>
-    <pattern>cosa fai </pattern>
-    <template>rispondo alle domande che mi farai </template>
-</category>
-<category>
     <pattern>come ti chiami </pattern>
     <template>mi chiamo Arthur</template>
 </category>
@@ -25,15 +21,23 @@
     <template>bene grazie</template>
 </category>
 <category>
-    <pattern>come funzioni</pattern>
-    <template>basta che tu mi scrivi delle domande e io ti darò delle risposte</template>
-</category>
-<category>
     <pattern>dove ti trovi</pattern>
-    <template>attualmente mi trovo a Torino</template>
+    <template>attualmente mi trovo a Londra</template>
 </category>
 <category>
-    <pattern>ti piace la marvel</pattern>
-    <template>certamente, è la mia casa produttrice preferita</template>
+    <pattern>cosa fai</pattern>
+    <template>elenco i ristoranti migliori di Londra</template>
+</category>
+<category>
+    <pattern>quali sono i ristoranti migliori di Londra </pattern>
+    <template>
+        Bao – 53 Lexington Street.
+        Lahpet – 58 Bethnal Green Road.
+        Ducksoup – 41 Dean Street.
+        Kudu – 119 Queen's Road.
+        Nest – 117-119 Morning Lane.
+        Chicama – 383 King's Road.
+        Frenchie – 16 Henrietta Street.
+    </template>
 </category>
 </aiml>
